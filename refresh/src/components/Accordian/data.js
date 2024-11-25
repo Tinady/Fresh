@@ -6,3 +6,4 @@ const data = [
     { id: 5, question: "What is your educational background?", answer: "I have a degree in Software Engineering." }
   ];
   
+  export default data

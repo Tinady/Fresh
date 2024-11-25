@@ -1,12 +1,13 @@
 import React from 'react'
 import './App.css'
+import Accordian from './components/Accordian/Accordian'
 
 const App = () => {
   return (
-    <div className='main'>
-       <div className='sub'>
-               
-       </div>
+    <div >
+     
+        <Accordian/>     
+   
     </div>
   )
 }
